@@ -1,0 +1,23 @@
+.layer1{
+    background-color: #03001C;
+    margin: 100px;
+    padding: 80px 150px 80px 80px;
+}
+
+.layer2{
+    background-color: #18122B;
+    margin: 30px;
+    color: #F6F1F1;
+    display: inline-block;
+    padding: 60px 0 60px 60px;
+}
+
+.photo{
+    float: right;
+    width: 50%;
+}
+
+.font-st{
+    font-family: 'Inter', sans-serif;
+}
+
